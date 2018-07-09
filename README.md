@@ -1,4 +1,4 @@
-# Games_Online
+# Online_Games
 
 Internet service with simple online games and also for adding and editing playing cards
 
